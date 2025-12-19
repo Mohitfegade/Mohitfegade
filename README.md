@@ -1,16 +1,23 @@
-## Hi there 👋
+ Hi, I'm Mohit Fegade 👋
 
-<!--
-**Mohitfegade/Mohitfegade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- BTech CSE Student | Pimpri-Chinchwad University
+- Aspiring Full-Stack Developer & cyber security expert
+- Open Source Enthusiast
 
-Here are some ideas to get you started:
+## 💻 Currently Learning
+- JavaScript, React, Web Development
+- Preparing for **Google Summer of Code 2026**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals
+- Contribute to open source projects
+- Build impactful web applications
+- Secure paid tech internships
+
+## 📫 Connect
+- GitHub: [@Mohitfegade](https://github.com/Mohitfegade)
+- Email: mohitfegade777@gmail.com
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohitfegade&show_icons=true&theme=radical)
+
